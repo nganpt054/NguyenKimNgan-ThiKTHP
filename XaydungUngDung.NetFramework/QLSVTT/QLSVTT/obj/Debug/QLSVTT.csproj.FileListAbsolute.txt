@@ -1,0 +1,17 @@
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\bin\Debug\QLSVTT.exe.config
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\bin\Debug\QLSVTT.exe
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\bin\Debug\QLSVTT.pdb
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.csprojAssemblyReference.cache
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.frmMain.resources
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.Properties.Resources.resources
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.csproj.GenerateResource.cache
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.csproj.CoreCompileInputs.cache
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.exe
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.pdb
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\bin\Debug\EntityFramework.dll
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\bin\Debug\EntityFramework.xml
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.frmSVTT.resources
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.csproj.CopyComplete
+C:\Users\thile\source\repos\QLSVTT\QLSVTT\obj\Debug\QLSVTT.ThemSV.resources
